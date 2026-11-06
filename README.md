@@ -1,14 +1,14 @@
 ```{=html}
 <h1 align="center">
 ```
-Hi, I'm Taofik Ahmed Suleiman 👋
+Hi, I'm Mustapha Abubakar Giro 👋
 ```{=html}
 </h1>
 ```
 ```{=html}
 <p align="center">
 ```
-`<strong>`{=html}Biomedical Engineering Graduate \| Medical Imaging \|
+`<strong>`{=html}Computer Science Graduate \| Medical Imaging \|
 Computer-Aided Diagnosis \| Data Science`</strong>`{=html}
 ```{=html}
 </p>
@@ -24,8 +24,8 @@ Computer-Aided Diagnosis \| Data Science`</strong>`{=html}
 ```
 ## About Me
 
-I am a Biomedical Engineering graduate with First Class Honours from the
-University of Ilorin. I am interested in research in **medical imaging**
+I am a Computer Science graduate with Second Class Upper Honours from the
+Kebbi State University of Science and Technology. I am interested in research in **Distributed Systems**
 and **computer-aided diagnosis**, particularly approaches that can help
 address the identification of imaging abnormalities.
 
